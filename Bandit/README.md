@@ -29,7 +29,7 @@ It teaches you the **core Linux commands**, **file system exploration**, **permi
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 # password: bandit0
-
+```
 <div align="center">
 
 Made with ❤️ for learners by [Your Name]
@@ -37,4 +37,3 @@ Made with ❤️ for learners by [Your Name]
 🧰 Explore | Learn | Hack Ethically
 
 </div>
-```
