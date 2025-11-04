@@ -67,6 +67,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - 🧠 Binary Exploitation Tools: gdb, objdump, ltrace, strace
 
 - 🧠 Learning Objectives
+---
 
 By completing these walkthroughs, you will:
 
@@ -77,8 +78,9 @@ Learn how hackers think
 Strengthen command-line problem-solving
 
 Get prepared for CTF competitions & cybersecurity interviews
-
+---
 📂 Repository Structure
+```
 OverTheWire-Walkthrough/
 │
 ├── Bandit/
@@ -92,22 +94,22 @@ OverTheWire-Walkthrough/
 │
 └── Narnia/
     ├── README.md
+```
+# 🎓 Recommended Resources
 
-🎓 Recommended Resources
+#🌐 OverTheWire Official Website
 
-🌐 OverTheWire Official Website
+#📘 Linux Command Handbook
 
-📘 Linux Command Handbook
+#💻 TryHackMe Bandit-Like Labs
 
-💻 TryHackMe Bandit-Like Labs
+#🔍 GTFOBins
 
-🔍 GTFOBins
+#⚙️ HackTheBox Academy
 
-⚙️ HackTheBox Academy
+#🧑‍💻 Author
 
-🧑‍💻 Author
-
-Kabir Chand
+## Kabir Chand
 💼 Cybersecurity Enthusiast | SOC Analyst Aspirant | CTF Player
 🌐 GitHub
  • LinkedIn
@@ -120,4 +122,4 @@ This project is licensed under the MIT License — feel free to use, share, and 
 
 ✨ "The more you practice breaking things, the better you become at protecting them." ✨
 
-</div> ```
+</div> 
