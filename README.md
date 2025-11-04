@@ -15,7 +15,7 @@
 
 | 🏰 Wargame | 📂 Folder | 🔗 Walkthrough |
 |:-----------|:-----------|:--------------|
-| 🎯 **Bandit** | [`/Bandit`](./Bandit) | [Start Now →]() |
+| 🎯 **Bandit** | [`/Bandit`](./Bandit) | [Start Now →](Bandit) |
 | ⚙️ **Leviathan** | [`/Leviathan`](./Leviathan) | Coming Soon |
 | 🧩 **Narnia** | [`/Narnia`](./Narnia) | Coming Soon |
 | 🔐 **Krypton** | [`/Krypton`](./Krypton) | Coming Soon |
