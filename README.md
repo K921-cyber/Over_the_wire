@@ -54,3 +54,70 @@ Sample Topics Covered:
 # Example: Connect to Bandit Level 0
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 # Password: bandit0
+```
+
+## ⚡ Tools & Commands Used
+
+- 🧰 Linux Commands: ls, cat, find, grep, chmod, ssh, scp, tar, xxd, nc
+
+- 🔒 Networking: telnet, nc, curl, wget
+
+- 🧮 Encoding/Decoding: base64, rot13, xxd, strings
+
+- 🧠 Binary Exploitation Tools: gdb, objdump, ltrace, strace
+
+- 🧠 Learning Objectives
+
+By completing these walkthroughs, you will:
+
+Understand Linux privilege hierarchy
+
+Learn how hackers think
+
+Strengthen command-line problem-solving
+
+Get prepared for CTF competitions & cybersecurity interviews
+
+📂 Repository Structure
+OverTheWire-Walkthrough/
+│
+├── Bandit/
+│   ├── README.md
+│   ├── level0.md
+│   ├── level1.md
+│   ├── ...
+│
+├── Leviathan/
+│   ├── README.md
+│
+└── Narnia/
+    ├── README.md
+
+🎓 Recommended Resources
+
+🌐 OverTheWire Official Website
+
+📘 Linux Command Handbook
+
+💻 TryHackMe Bandit-Like Labs
+
+🔍 GTFOBins
+
+⚙️ HackTheBox Academy
+
+🧑‍💻 Author
+
+Kabir Chand
+💼 Cybersecurity Enthusiast | SOC Analyst Aspirant | CTF Player
+🌐 GitHub
+ • LinkedIn
+
+🏁 License
+
+This project is licensed under the MIT License — feel free to use, share, and modify while giving credit.
+
+<div align="center">
+
+✨ "The more you practice breaking things, the better you become at protecting them." ✨
+
+</div> ```
