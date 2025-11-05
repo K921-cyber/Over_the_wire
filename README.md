@@ -66,6 +66,5 @@ This repo serves as your **learning journal** and a **reference guide** for ever
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 # Password: bandit0
 ```
-remember to do it yourself
 
 
