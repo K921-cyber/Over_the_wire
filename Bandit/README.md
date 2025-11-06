@@ -32,7 +32,6 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 <div align="center">
 
-Made with ❤️ for learners by Kabir Chand
 <br>
 🧰 Explore | Learn | Hack Ethically
 
