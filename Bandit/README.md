@@ -33,6 +33,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 <div align="center">
 
 <br>
+Made with ❤️ for learners by [Your Name]
+
 🧰 Explore | Learn | Hack Ethically
 
 </div>
