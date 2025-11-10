@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=🚀+OverTheWire+Wargame+Walkthroughs;🎯+From+Bandit+to+Narnia+and+Beyond;🧑‍💻+Learn+Ethical+Hacking+Hands-on;🔐+Master+Linux+%26+CTF+Skills"/>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/K921-cyber/Over_the_wir?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/K921-cyber/Over_the_wir?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/K921-cyber/Over_the_wir?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/K921-cyber/Over_the_wire?style=for-the-badge)
 
 ---
