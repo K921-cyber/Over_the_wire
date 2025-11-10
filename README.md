@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/K921-cyber/OverTheWire-Walkthrough?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/K921-cyber/Over_the_wire?style=for-the-badge)
 
 ---
 
