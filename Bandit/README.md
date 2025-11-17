@@ -31,6 +31,6 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 # password: bandit0
 ```
 ## Level 0
-
+This is the page of bandit war game starting ...
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b454392-fd53-4433-98b1-342e2b311f0f" />
 
