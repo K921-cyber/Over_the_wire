@@ -11,6 +11,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/K921-cyber/Over_the_wire?style=for-the-badge)
 ---
 
+##
+<img width="1920" height="955" alt="Screenshot_2025-11-20_23_37_58" src="https://github.com/user-attachments/assets/eef2c5b9-dc35-4f95-9433-933ccb3d6d6d" />
+
+
+
 ### 🔗 Quick Navigation
 
 | 🏰 Wargame | 📂 Folder | 🔗 Walkthrough |
