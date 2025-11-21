@@ -42,4 +42,5 @@ This is the page of bandit war game starting ...
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b454392-fd53-4433-98b1-342e2b311f0f" />
 <img width="1080" height="620" alt="Screenshot_2025-11-20_22-58-59" src="https://github.com/user-attachments/assets/b8472267-2e8a-4b7d-b52a-5613cd4b8abe" />
 
+<img width="817" height="179" alt="Screenshot_2025-11-20_22-59-55" src="https://github.com/user-attachments/assets/7715cda2-182a-46ed-b59d-9fa39c6418d1" />
 
