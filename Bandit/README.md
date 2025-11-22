@@ -45,4 +45,3 @@ This is the page of bandit war game starting ...
 
 <img width="817" height="179" alt="Screenshot_2025-11-20_22-59-55" src="https://github.com/user-attachments/assets/7715cda2-182a-46ed-b59d-9fa39c6418d1" />
 
-
