@@ -45,3 +45,8 @@ This is the page of bandit war game starting ...
 
 <img width="817" height="179" alt="Screenshot_2025-11-20_22-59-55" src="https://github.com/user-attachments/assets/7715cda2-182a-46ed-b59d-9fa39c6418d1" />
 
+## Level 1 
+Password from level zero to proceed 
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/e0f1dfa9-425e-4aa8-bce7-e3f4c03f367d" />
+
+
