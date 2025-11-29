@@ -1,82 +1,79 @@
 <div align="center">
 
-# 🧠 OverTheWire Walkthroughs
+# **OverTheWire Wargame Walkthroughs**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=🚀+OverTheWire+Wargame+Walkthroughs;🎯+From+Bandit+to+Narnia+and+Beyond;🧑‍💻+Learn+Ethical+Hacking+Hands-on;🔐+Master+Linux+%26+CTF+Skills"/>
-
-![GitHub Repo stars](https://img.shields.io/github/stars/K921-cyber/Over_the_wire?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/K921-cyber/Over_the_wire?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/K921-cyber/Over_the_wire?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/K921-cyber/Over_the_wire?style=for-the-badge)
+A structured and professionally documented collection of walkthroughs for the **OverTheWire** cybersecurity wargames.  
+Focused on clarity, accuracy, and long-term learning value.
 
 ---
 
-### 🔗 Quick Navigation
+![Stars](https://img.shields.io/github/stars/K921-cyber/Over_the_wire?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/K921-cyber/Over_the_wire?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/K921-cyber/Over_the_wire?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/K921-cyber/Over_the_wire?style=for-the-badge)
 
-| 🏰 Wargame | 📂 Directory | 📘 Walkthrough |
-|-----------|--------------|----------------|
-| 🎯 **Bandit** | [`/Bandit`](./Bandit) | [Start Now →](./Bandit) |
-| ⚙️ **Leviathan** | [`/Leviathan`](./Leviathan) | Coming Soon |
-| 🧩 **Narnia** | [`/Narnia`](./Narnia) | Coming Soon |
-| 🔐 **Krypton** | [`/Krypton`](./Krypton) | Coming Soon |
+---
+
+### **Wargame Index**
+
+| Wargame | Directory | Status |
+|--------|-----------|--------|
+| **Bandit** | [`/Bandit`](./Bandit) | ✔ Available |
+| **Leviathan** | [`/Leviathan`](./Leviathan) | ⏳ In Progress |
+| **Narnia** | [`/Narnia`](./Narnia) | ⏳ In Progress |
+| **Krypton** | [`/Krypton`](./Krypton) | ⏳ In Progress |
 
 </div>
 
 ---
 
-## 🧩 About This Repository
+## **Overview**
 
-This repository contains **detailed, beginner-friendly walkthroughs** for the OverTheWire wargames.  
-Each challenge is solved step-by-step with explanations focusing on:
+This repository provides **clean, structured, and technically accurate walkthroughs** for the OverTheWire wargames.  
+The goal is to help learners:
 
-- Linux command usage  
-- Logical reasoning  
-- Enumeration techniques  
-- Security concepts  
-- CTF-style problem-solving  
+- Understand the *reasoning* behind each step  
+- Build a solid foundation in Linux, security concepts, and problem-solving  
+- Develop the mindset required for CTFs and real-world cybersecurity tasks  
 
-Whether you're a beginner or a security enthusiast, this repo will help you build a **strong technical foundation** in ethical hacking.
+Each walkthrough is created with an emphasis on:
 
----
-
-## 🧠 Why OverTheWire?
-
-OverTheWire is one of the best places to learn by *doing*.  
-These wargames teach essential cybersecurity skills such as:
-
-- Understanding Linux behaviour  
-- Debugging problems logically  
-- Navigating file systems  
-- Managing permissions  
-- Handling encoded/hidden data  
-- Exploring basic binary exploitation  
-
-This repository is built as a **learning journal**, reference guide, and open-source resource for others.
+- Clear explanations  
+- Reproducible commands  
+- Educational breakdowns  
+- No shortcuts, no guesswork  
 
 ---
 
-## 📘 What’s Inside?
+## **Purpose**
 
-| Skill Area | You Will Learn |
-|------------|----------------|
-| 🐧 **Linux Fundamentals** | Navigation, permissions, redirection, environment |
-| 🔎 **Enumeration Techniques** | Hidden files, filtering, searching, decoding |
-| 🧱 **Privilege Mechanics** | SUID, user groups, permission chains |
-| 🔑 **Basic Cryptography** | Encodings, simple ciphers, decoding tools |
-| ⚙️ **Binary Analysis** | Running, analyzing and exploiting binaries safely |
+OverTheWire is one of the most recommended starting points for aspiring cybersecurity professionals.  
+This repository exists to:
 
-Each walkthrough includes:
+- Document personal progress  
+- Provide high-quality references for others  
+- Maintain an open-source learning resource  
+- Encourage ethical, hands-on security practice  
 
-- 📝 Commands with outputs  
-- 📌 Explanations of *why* each step matters  
-- 📚 Key takeaways for future challenges  
-- ⚙️ Reproducible instructions  
+It is designed with the standards of documentation used in professional open-source projects.
 
 ---
 
-## 🚀 Getting Started
+## **Learning Outcomes**
 
-To connect to **Bandit Level 0**, run:
+| Area | Description |
+|------|-------------|
+| **Linux Fundamentals** | Shell navigation, file handling, permissions, processes |
+| **Enumeration Techniques** | Searching, filtering, decoding, hidden files |
+| **Privilege Mechanics** | SUID/SGID, ownership, execution rights |
+| **Basic Cryptography** | Encodings, classic ciphers, data transformations |
+| **Binary Interaction** | Executables, permissions, basic debugging logic |
+
+---
+
+## **Getting Started**
+
+To begin with **Bandit Level 0**, use:
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
