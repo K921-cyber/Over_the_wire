@@ -1,3 +1,32 @@
+## 🏗️ Overall System Architecture
+
+```mermaid
+flowchart TB
+    U[User] --> UI[Web Interface / CLI]
+
+    UI --> VE[Input Validation Layer]
+
+    VE --> SE[Scanner Engine]
+
+    SE --> SQLI[SQL Injection Detection Module]
+    SE --> XSS[Cross-Site Scripting Detection Module]
+    SE --> CSRF[CSRF Protection Check Module]
+    SE --> OR[Open Redirect Detection Module]
+
+    SQLI --> AGG[Result Aggregator]
+    XSS --> AGG
+    CSRF --> AGG
+    OR --> AGG
+
+    AGG --> SC[Severity Classification]
+    SC --> OWASP[OWASP Top 10 Mapping]
+
+    OWASP --> REP[PDF Report Generator]
+
+    REP --> UI
+
+```
+
 <div align="center">
 
 # **OverTheWire Wargame Walkthroughs**
