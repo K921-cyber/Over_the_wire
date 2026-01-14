@@ -58,8 +58,9 @@ cat : (concatenate) used to display the content of the files or combine or creat
 ```
 
 ## Level 1 
-Password from level zero to proceed 
-
+```
+Proceed with the Password fetched from level zero .
+```
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/e0f1dfa9-425e-4aa8-bce7-e3f4c03f367d" />
 
 <img width="1920" height="955" alt="Screenshot_2025-11-20_23_09_18" src="https://github.com/user-attachments/assets/69c40b90-9a0a-4d83-8b6a-43f9e90b56f9" />
