@@ -48,10 +48,12 @@ Proceed with the given username and password
 
 <img width="1080" height="620" alt="Screenshot_2025-11-20_22-58-59" src="https://github.com/user-attachments/assets/b8472267-2e8a-4b7d-b52a-5613cd4b8abe" />
 
+
 <img width="817" height="179" alt="Screenshot_2025-11-20_22-59-55" src="https://github.com/user-attachments/assets/7715cda2-182a-46ed-b59d-9fa39c6418d1" />
 
 ## Level 1 
 Password from level zero to proceed 
+
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/e0f1dfa9-425e-4aa8-bce7-e3f4c03f367d" />
 
 <img width="1920" height="955" alt="Screenshot_2025-11-20_23_09_18" src="https://github.com/user-attachments/assets/69c40b90-9a0a-4d83-8b6a-43f9e90b56f9" />
