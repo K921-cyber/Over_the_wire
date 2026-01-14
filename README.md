@@ -6,6 +6,7 @@
 
 A structured and professionally documented collection of walkthroughs for the **OverTheWire** cybersecurity wargames.  
 Focused on clarity, accuracy, and long-term learning value.
+<img width="1919" height="802" alt="Screenshot 2026-01-14 at 12-10-45 OverTheWire Wargames" src="https://github.com/user-attachments/assets/f9caba2d-f7db-4521-834f-d4bae542e674" />
 
 ---
 
