@@ -50,6 +50,11 @@ Proceed with the given username and password
 
 
 <img width="817" height="179" alt="Screenshot_2025-11-20_22-59-55" src="https://github.com/user-attachments/assets/7715cda2-182a-46ed-b59d-9fa39c6418d1" />
+```
+command used:
+ls : used to list all files and substrings of a file in the terminal
+cat : (concatenate) used to display the content of the files or combine or creating new files from the terminal
+```
 
 ## Level 1 
 Password from level zero to proceed 
