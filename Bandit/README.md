@@ -24,19 +24,20 @@ It teaches you the **core Linux commands**, **file system exploration**, **permi
 
 ---
 
-## ⚙️ How to Start
 
-```bash
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-# password: bandit0
-```
 ## Overthewire Rules
 
 <img width="1920" height="955" alt="Screenshot_2025-11-20_22_29_19" src="https://github.com/user-attachments/assets/a4970d0b-3a0b-4f7c-8d21-7d840bdc0085" />
 
 
 
+---
+## ⚙️ How to Start
 
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+# password: bandit0
+```
 ## Level 0
 This is the page of bandit war game starting ...
 ```
